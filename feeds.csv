@@ -1,18 +1,18 @@
-thema	taal	trefwoorden
-Nettarieven	NL	capaciteitstarief|injectietarief|prosumententarief|terugleververgoeding|terugleverkosten|nettarief|nettarieven|digitale meter
-Nettarieven	FR	tarif capacitaire|tarif prosumer|tarif d'injection|tarifs de reseau|compteur communicant
-Dynamische prijzen	NL	dynamisch energiecontract|dynamische energieprijzen|negatieve stroomprijzen|negatieve elektriciteitsprijzen|uurtarieven|spotprijs|day-ahead
-Dynamische prijzen	FR	contrat dynamique|tarif dynamique|prix negatifs|prix spot|prix horaires
-Batterijen	NL	thuisbatterij|thuisbatterijen|batterijopslag|batterijpremie|stekkerbatterij|energieopslag
-Batterijen	FR	batterie domestique|stockage residentiel|prime batterie|batterie de stockage
-Netcapaciteit	NL	netcapaciteit|netcongestie|injectiebeperking|netverzwaring|aansluitvermogen|stroomnet|elektriciteitsnet
-Netcapaciteit	FR	capacite du reseau|congestion du reseau|limitation d'injection|renforcement du reseau|raccordement
-Premies en beleid	NL	energiepremie|premie zonnepanelen|groenestroomcertificaten|groenestroomcertificaat|subsidie zonnepanelen|investeringsaftrek|btw
-Premies en beleid	FR	prime energie|prime photovoltaique|certificats verts|prime batterie|TVA
-B2B en landbouw	NL	peak shaving|piekverbruik|piekvermogen|energiedelen|energiegemeenschap|zelfconsumptie
-B2B en landbouw	FR	effacement de pointe|partage d'energie|communaute d'energie|autoconsommation
-Sector en risico	NL	installateur|zonnepaneelinstallateur|PV-installateur|faillissement|fraude|klachten|keuring|brand
-Sector en risico	FR	installateur photovoltaique|secteur photovoltaique|faillite|fraude|plaintes|incendie
-Zonnepanelen algemeen	NL	zonnepanelen|zonnepaneel|fotovoltaisch|omvormer|PV-installatie
-Zonnepanelen algemeen	FR	panneaux solaires|panneaux photovoltaiques|onduleur|photovoltaique
-Vakpers Solar Magazine	NL	
+thema	taal	trefwoorden	feed_url
+Nettarieven	NL	capaciteitstarief|injectietarief|prosumententarief|terugleververgoeding|terugleverkosten|nettarief|nettarieven|digitale meter	https://news.google.com/rss/search?q=%22capaciteitstarief%22+OR+%22injectietarief%22+OR+%22prosumententarief%22+OR+%22terugleververgoeding%22&hl=nl&gl=BE&ceid=BE:nl
+Nettarieven	FR	tarif capacitaire|tarif prosumer|tarif d'injection|tarifs de reseau|compteur communicant	https://news.google.com/rss/search?q=%22tarif+capacitaire%22+OR+%22tarif+prosumer%22+OR+%22tarif+d%27injection%22+OR+%22tarifs+de+reseau%22&hl=fr&gl=BE&ceid=BE:fr
+Dynamische prijzen	NL	dynamisch energiecontract|dynamische energieprijzen|negatieve stroomprijzen|negatieve elektriciteitsprijzen|uurtarieven|spotprijs|day-ahead	https://news.google.com/rss/search?q=%22dynamisch+energiecontract%22+OR+%22dynamische+energieprijzen%22+OR+%22negatieve+stroomprijzen%22+OR+%22negatieve+elektriciteitsprijzen%22&hl=nl&gl=BE&ceid=BE:nl
+Dynamische prijzen	FR	contrat dynamique|tarif dynamique|prix negatifs|prix spot|prix horaires	https://news.google.com/rss/search?q=%22contrat+dynamique%22+OR+%22tarif+dynamique%22+OR+%22prix+negatifs+de+l%27electricite%22&hl=fr&gl=BE&ceid=BE:fr
+Batterijen	NL	thuisbatterij|thuisbatterijen|batterijopslag|batterijpremie|stekkerbatterij|energieopslag	https://news.google.com/rss/search?q=%22thuisbatterij%22+OR+%22batterijopslag%22+OR+%22batterijpremie%22+OR+%22stekkerbatterij%22&hl=nl&gl=BE&ceid=BE:nl
+Batterijen	FR	batterie domestique|stockage residentiel|prime batterie|batterie de stockage	https://news.google.com/rss/search?q=%22batterie+domestique%22+OR+%22stockage+residentiel%22+OR+%22prime+batterie%22&hl=fr&gl=BE&ceid=BE:fr
+Netcapaciteit	NL	netcapaciteit|netcongestie|injectiebeperking|netverzwaring|aansluitvermogen|stroomnet|elektriciteitsnet	https://news.google.com/rss/search?q=%22netcapaciteit%22+OR+%22netcongestie%22+OR+%22injectiebeperking%22+OR+%22netverzwaring%22&hl=nl&gl=BE&ceid=BE:nl
+Netcapaciteit	FR	capacite du reseau|congestion du reseau|limitation d'injection|renforcement du reseau|raccordement	https://news.google.com/rss/search?q=%22capacite+du+reseau+electrique%22+OR+%22congestion+du+reseau%22+OR+%22limitation+d%27injection%22&hl=fr&gl=BE&ceid=BE:fr
+Premies en beleid	NL	energiepremie|premie zonnepanelen|groenestroomcertificaten|groenestroomcertificaat|subsidie zonnepanelen|investeringsaftrek|btw	https://news.google.com/rss/search?q=%22energiepremie%22+OR+%22premie+zonnepanelen%22+OR+%22groenestroomcertificaten%22+OR+%22subsidie+zonnepanelen%22&hl=nl&gl=BE&ceid=BE:nl
+Premies en beleid	FR	prime energie|prime photovoltaique|certificats verts|prime batterie|TVA	https://news.google.com/rss/search?q=%22prime+energie%22+OR+%22prime+photovoltaique%22+OR+%22certificats+verts%22&hl=fr&gl=BE&ceid=BE:fr
+B2B en landbouw	NL	peak shaving|piekverbruik|piekvermogen|energiedelen|energiegemeenschap|zelfconsumptie	https://news.google.com/rss/search?q=%22peak+shaving%22+OR+%22piekverbruik%22+OR+%22energiedelen%22+OR+%22energiegemeenschap%22+OR+%22zelfconsumptie%22&hl=nl&gl=BE&ceid=BE:nl
+B2B en landbouw	FR	effacement de pointe|partage d'energie|communaute d'energie|autoconsommation	https://news.google.com/rss/search?q=%22effacement+de+pointe%22+OR+%22partage+d%27energie%22+OR+%22communaute+d%27energie%22+OR+%22autoconsommation%22&hl=fr&gl=BE&ceid=BE:fr
+Sector en risico	NL	installateur|zonnepaneelinstallateur|PV-installateur|faillissement|fraude|klachten|keuring|brand	https://news.google.com/rss/search?q=%22installateur+zonnepanelen%22+OR+%22zonnepaneelinstallateur%22+OR+%22PV-installateur%22&hl=nl&gl=BE&ceid=BE:nl
+Sector en risico	FR	installateur photovoltaique|secteur photovoltaique|faillite|fraude|plaintes|incendie	https://news.google.com/rss/search?q=%22installateur+photovoltaique%22+OR+%22secteur+photovoltaique%22&hl=fr&gl=BE&ceid=BE:fr
+Zonnepanelen algemeen	NL	zonnepanelen|zonnepaneel|fotovoltaisch|omvormer|PV-installatie	https://news.google.com/rss/search?q=%22zonnepanelen%22+OR+%22omvormer%22+OR+%22PV-installatie%22&hl=nl&gl=BE&ceid=BE:nl
+Zonnepanelen algemeen	FR	panneaux solaires|panneaux photovoltaiques|onduleur|photovoltaique	https://news.google.com/rss/search?q=%22panneaux+photovoltaiques%22+OR+%22onduleur%22+OR+%22panneaux+solaires%22&hl=fr&gl=BE&ceid=BE:fr
+Vakpers Solar Magazine	NL		https://solarmagazine.nl/rss
